@@ -1,0 +1,5 @@
+com\example\movies\MoviesApplication.class
+com\example\movies\Movie.class
+com\example\movies\MovieController.class
+com\example\movies\GeminiService.class
+com\example\movies\MovieRepository.class
